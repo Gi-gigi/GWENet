@@ -1,4 +1,4 @@
-# GWENet
+# GWENet: Global-Guided Weighted Enhancement for Salient Object Detection
 Official for "Global-Guided Weighted Enhancement for Salient Object Detection"
 
 ### Abstract
