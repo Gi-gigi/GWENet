@@ -6,3 +6,5 @@ Salient Object Detection (SOD) benefits from the guidance of global context to f
 
 ## Visualization Results
 ![Image text](https://github.com/Gi-gigi/GWENet/blob/main/Visual/Figure3.jpg)
+****
+![Image text](https://github.com/Gi-gigi/GWENet/blob/main/Visual/Figure7Git.jpg)
